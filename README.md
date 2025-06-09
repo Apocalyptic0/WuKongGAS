@@ -6,7 +6,7 @@
 
 ## 部分游戏体验记录
 ![](记录文件/Ref/Pictures/游玩时间.png)
-![](记录文件/Ref/Pictures/游戏记录.jpg)
+![](https://github.com/Apocalyptic0/WuKongGAS/blob/master/%E8%AE%B0%E5%BD%95%E6%96%87%E4%BB%B6/Ref/Pictures/%E6%B8%B8%E6%88%8F%E8%AE%B0%E5%BD%95.jpg)
 
 # 目录
 
