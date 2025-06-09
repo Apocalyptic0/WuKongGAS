@@ -1,0 +1,3 @@
+Name,BaseValue,MinValue,MaxValue,DerivedAttributeInfo,bCanStack
+CharacterAttributeSetBase.Health,70,0,100,,FALSE
+CharacterAttributeSetBase.MaxHealth,100,0,100,,FALSE
